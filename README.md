@@ -15,7 +15,7 @@
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" title="Lua" **alt="Lua" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    
+    <img src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png" title="Co-Pilot" **alt="Co-Pilot" width="40" height="40"/>
   </div>
   
   ---
