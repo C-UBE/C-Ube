@@ -22,6 +22,12 @@
 
   ### :fire: My Stats :
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c-ube&theme=dark&background=000000)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-ube&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <div>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c-ube&theme=dark&background=000000)](https://git.io/streak-stats)
+  </div>
+
+  <div>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-ube&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+
 </div>
