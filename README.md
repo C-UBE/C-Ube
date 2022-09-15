@@ -13,7 +13,7 @@
 
   ### :hammer_and_wrench: Languages and Tools :
   <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt=""/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" title="Lua" **alt="Lua" width="40" height="40"/>
   </div>
   
 </div>
