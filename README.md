@@ -9,11 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=c-ube&style=flat-square&color=blue" alt=""/>
   
   ---
+  ### Discord :
   <p align="center">
     <a href="https://discord.com/users/536864059505639454">
         <img title="C-ube" alt="C-ube" src="https://discord.c99.nl/widget/theme-1/536864059505639454.png"/>
     </a>
   </p> 
+  
   ---
 
   ### :hammer_and_wrench: Languages and Tools :
